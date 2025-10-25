@@ -2,10 +2,16 @@ package com.ochoa.semana09_servicios.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val PrimaryColor = Color(0xFF006875)
+val OnPrimaryColor = Color(0xFFFFFFFF)
+val PrimaryContainer = Color(0xFF8CF1FF)
+val OnPrimaryContainer = Color(0xFF001F24)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val SecondaryColor = Color(0xFF4A6367)
+val OnSecondaryColor = Color(0xFFFFFFFF)
+val BackgroundColor = Color(0xFFF8F9FA)
+val SurfaceColor = Color(0xFFFFFFFF)
+val ErrorColor = Color(0xFFBA1A1A)
+
+val OnSurfaceColor = Color(0xFF1B1B1B)
+val OutlineColor = Color(0xFF73777F)
